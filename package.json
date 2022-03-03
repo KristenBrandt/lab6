@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/KristenBrandt/Laboratorio6.git"
+    "url": "git+https://github.com/KristenBrandt/lab6.git"
   },
   "author": "Kristen Brandt",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/KristenBrandt/Laboratorio6/issues"
+    "url": "https://github.com/KristenBrandt/lab6/issues"
   },
-  "homepage": "https://github.com/KristenBrandt/Laboratorio6#readme",
+  "homepage": "https://github.com/KristenBrandt/lab6#readme",
   "devDependencies": {
     "gulp": "^4.0.2",
     "gulp-sass": "^5.1.0",
