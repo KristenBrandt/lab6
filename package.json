@@ -1,0 +1,24 @@
+{
+  "name": "lab6",
+  "version": "1.0.0",
+  "description": "Laboratorio  6 web",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KristenBrandt/Laboratorio6.git"
+  },
+  "author": "Kristen Brandt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KristenBrandt/Laboratorio6/issues"
+  },
+  "homepage": "https://github.com/KristenBrandt/Laboratorio6#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.49.9"
+  }
+}
